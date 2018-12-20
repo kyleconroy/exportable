@@ -9,7 +9,7 @@ they make it available to you.
 
 * Sign in to [Facebook](https://facebook.com/)
 * Go to [Settings](https://www.facebook.com/settings)
-* Select ["Your Facebook Infomation"](https://www.facebook.com/settings?tab=your_facebook_information) from the left menu
+* Select [Your Facebook Infomation](https://www.facebook.com/settings?tab=your_facebook_information) from the left menu
 * Next to "Download Your Information" press "View"
 * Select "JSON" as the format
 * Select "High" as the media quality

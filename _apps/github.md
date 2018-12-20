@@ -4,8 +4,8 @@ slug: github
 # Github
 
 * Sign in to [Github](https://github.com/)
-* Go to "[Account Settings](https://github.com/settings/admin)
-* Scroll down to the Export account data" section
+* Go to [Account Settings](https://github.com/settings/admin)
+* Scroll down to the "Export account data" section
 * Press "New Export"
 
 An email will arrive in your inbox once your archive is ready to download.

@@ -8,7 +8,7 @@ However, only one option includes all your data.
 
 * Sign in to [Twitter](https://twitter.com/)
 * Go to [Settings and Privacy](https://twitter.com/settings/account)
-* Select ["Your Twitter data"](https://twitter.com/settings/your_twitter_data) from the left menu
+* Select [Your Twitter data](https://twitter.com/settings/your_twitter_data) from the left menu
 * Enter your password and press "Confirm"
 * Scroll to the bottom of the page and press "Download data"
 

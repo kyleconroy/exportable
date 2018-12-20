@@ -4,7 +4,7 @@ slug: instagram
 # Instagram
 
 * Sign in to [Instagram](https://instagram.com/)
-* Go to "[Privacy and Security](https://www.instagram.com/accounts/privacy_and_security/)"
+* Go to [Privacy and Security](https://www.instagram.com/accounts/privacy_and_security/)
 * Scroll down to the Data Download section
 * Press "Request Download"
 * Confirm your password
