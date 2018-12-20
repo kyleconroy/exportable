@@ -1,1 +1,13 @@
+title: Exportable
+description: A guide to exporting and archiving data from the websites you use everyday
 theme: jekyll-theme-minimal
+collections:
+  apps:
+    output: true
+    permalink: /:slug
+defaults:
+  - scope:
+      path: ""
+      type: "apps"
+    values:
+      layout: default
